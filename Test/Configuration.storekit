@@ -1,0 +1,49 @@
+{
+  "identifier" : "7513ABF6",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "E83B604A",
+      "localizations" : [
+
+      ],
+      "name" : "gold",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "7CAA3426",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock all gold products",
+              "displayName" : "GOLD",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "gold",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "gold",
+          "subscriptionGroupID" : "E83B604A",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

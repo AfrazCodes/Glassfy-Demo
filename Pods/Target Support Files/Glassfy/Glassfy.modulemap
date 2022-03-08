@@ -1,0 +1,6 @@
+framework module Glassfy {
+  umbrella header "Glassfy-umbrella.h"
+
+  export *
+  module * { export * }
+}
